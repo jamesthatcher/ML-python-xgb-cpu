@@ -1,0 +1,10 @@
+[
+   {
+      "Repo":"ML-python-xgb-cpu-service",
+      "Tail":"-service"
+   },
+   {
+      "Repo":"ML-python-xgb-cpu-training",
+      "Tail":"-training"
+   }
+]
